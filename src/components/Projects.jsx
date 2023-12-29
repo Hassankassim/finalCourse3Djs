@@ -8,34 +8,34 @@ import { useEffect, useRef } from "react";
 
 export const projects = [
   {
-    title: "Wawatmos",
-    url: "https://r3f-wawatmos-final.vercel.app/",
+    title: "3D modelling",
+    url: "#",
     image: "projects/wawatmos.jpg",
-    description: "Recreating the Atmos Awwwards website with React Three Fiber",
+    description: "Design and modelling 3D models and also printing it",
   },
   {
-    title: "Portfolio Baking",
-    url: "https://www.youtube.com/watch?v=YkHqpqJgLKw",
+    title: "NETNEXA",
+    url: "https://www.netnexa.netlify.app",
     image: "projects/baking.jpg",
-    description: "Learn how to bake a 3D model with Blender and use it in r3f",
+    description: "A webApp that used for Networking",
   },
   {
-    title: "3D Avatar",
-    url: "https://www.youtube.com/watch?v=pGMKIyALcK0",
+    title: "DUBU",
+    url: "https://netnexa.netlify.app/savingnew",
     image: "projects/avatar.jpg",
-    description: "Learn how to use ReadyPlayerMe to create a 3D avatar",
+    description: "WebApp for contact management",
   },
   {
-    title: "Kanagame",
-    url: "https://www.youtube.com/watch?v=zwNF1-lsia8",
+    title: "3D Sphere",
+    url: "https://sanithreejs.netlify.com/",
     image: "projects/kanagame.jpg",
-    description: "Use React Three Fiber to create a 3D game",
+    description: "Iam still learning threejs animations",
   },
   {
-    title: "Loader",
-    url: "https://www.youtube.com/watch?v=L12wIvuZTOY",
+    title: "Softwares",
+    url: "https://www.sanip.netlify.app",
     image: "projects/loader.jpg",
-    description: "Create a loading screen for your r3f projects",
+    description: "My portifolio for Software development",
   },
 ];
 
