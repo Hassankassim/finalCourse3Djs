@@ -194,7 +194,7 @@ export const Experience = (props) => {
             <MeshDistortMaterial
               opacity={0.8}
               transparent
-              distort={1}
+              distort={0}
               speed={5}
               color="yellow"
             />

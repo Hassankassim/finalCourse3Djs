@@ -67,9 +67,9 @@ const AboutSection = (props) => {
           delay: 1.5,
         }}
       >
-        I make YouTube videos to help developers
+        I design 3D models and web developer
         <br />
-        learn how to build 3D apps
+       Modify Your Website with 3D modelling
       </motion.p>
       <motion.button
         onClick={() => setSection(3)}
@@ -104,7 +104,7 @@ const skills = [
     level: 90,
   },
   {
-    title: "Nodejs",
+    title: "3D printing",
     level: 90,
   },
   {
@@ -118,17 +118,14 @@ const skills = [
 ];
 const languages = [
   {
-    title: "🇫🇷 French",
+    title: "sw Swahili",
     level: 100,
   },
   {
     title: "🇺🇸 English",
     level: 80,
   },
-  {
-    title: "🇯🇵 Japanese",
-    level: 20,
-  },
+
 ];
 
 const SkillsSection = () => {
