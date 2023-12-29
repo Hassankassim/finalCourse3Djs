@@ -33,7 +33,7 @@ export const projects = [
   },
   {
     title: "Softwares",
-    url: "https://www.sanip.netlify.app",
+    url: "https://www.sanip.netlify.com",
     image: "projects/loader.jpg",
     description: "My portifolio for Software development",
   },
