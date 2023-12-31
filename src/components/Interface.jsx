@@ -69,7 +69,7 @@ const AboutSection = (props) => {
       >
         I design 3D models and web developer
         <br />
-       Modify Your Website with 3D modelling
+       Modify Your Website with 3D animation
       </motion.p>
       <motion.button
         onClick={() => setSection(3)}
